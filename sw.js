@@ -1,4 +1,5 @@
-const CACHE_NAME = 'jokusoplus-v1';
+// APP_SHELL の内容を変更したら、キャッシュ更新のため必ずこの番号を上げる
+const CACHE_NAME = 'jokusoplus-v2';
 const APP_SHELL = [
   './',
   './index.html',
