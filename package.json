@@ -1,0 +1,26 @@
+{
+  "name": "jokuso-plus",
+  "version": "1.0.0",
+  "description": "訪問看護師・介護施設の看護師向け、褥瘡経過記録アプリ。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohei0806/jokuso-plus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kohei0806/jokuso-plus/issues"
+  },
+  "homepage": "https://github.com/kohei0806/jokuso-plus#readme",
+  "dependencies": {
+    "@capacitor/cli": "^8.5.0",
+    "@capacitor/core": "^8.5.0",
+    "@capacitor/ios": "^8.5.0"
+  }
+}
