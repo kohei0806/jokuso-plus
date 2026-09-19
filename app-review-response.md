@@ -2,7 +2,7 @@ Thank you for the review. Please find the requested information below.
 
 1. Screen recording
 
-A screen recording captured on a physical iPhone (latest iOS, installed via TestFlight) is attached. It starts from launching the app and shows the typical user flow: adding a patient, creating a DESIGN-R® record by selecting a severity option for each category (with the total score and code updating automatically), attaching a photo, viewing the score-trend graph, and opening the progress photo gallery. The app has no account registration, login, or account deletion flow, no user-generated content that is shared with other users, and no paid content or features, so none of those are shown.
+A screen recording captured on a physical iPhone (latest iOS, installed via TestFlight) is attached. It starts from launching the app from the home screen and shows the typical user flow: adding a patient, creating a DESIGN-R® record by selecting a severity option for each category (with the total score and code updating automatically), granting camera access and attaching a photo, viewing the saved record with its photo, adding a second record, and viewing the score-trend graph. The app has no account registration, login, or account deletion flow, no user-generated content that is shared with other users, and no paid content or features, so none of those are shown.
 
 2. App purpose and target audience
 
