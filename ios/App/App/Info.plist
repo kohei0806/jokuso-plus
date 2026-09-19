@@ -22,6 +22,12 @@
 	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSCameraUsageDescription</key>
+	<string>褥瘡の経過写真を撮影し、記録に添付するためにカメラを使用します。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>褥瘡の経過写真を記録に添付するために、写真ライブラリから画像を選択します。</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>
